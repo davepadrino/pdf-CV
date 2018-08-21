@@ -1,0 +1,17 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-classy": "^1.0.9",
+    "jsonresume-theme-eloquent": "^4.0.0",
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-onepage": "0.0.3"
+  }
+}

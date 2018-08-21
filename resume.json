@@ -1,0 +1,157 @@
+{
+  "basics": {
+    "name": "David Padrino",
+    "label": "Software Developer - Web Developer",
+    "picture": "",
+    "email": "david.padrino03@gmail.com",
+    "phone": "+58 (414) 309-97-47",
+    "website": "http://davepadrino.github.io/",
+    "summary": "Enthusiast about programming and learning new technologies. I'm a fast learner and new projects keep me motivated. Analytical, detail-oriented, mainly self-taught, love solving complex technical problems.",
+    "location": {
+      "city": "Caracas",
+      "countryCode": "Venezuela"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/david-padrino/"
+      },
+      {
+        "network": "Github",
+        "url": "https://github.com/davepadrino"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Teravision Technologies",
+      "position": "Intermediate Full-Stack Developer",
+      "startDate": "2017-10-27",
+      "highlights": [
+        "Creation of web applications using ReactJs, Redux, ExpressJs, Firebase and Amazon Web Services suite, DynamoDB + CloudWatch + Serverless",
+        "Supported the management with the creation of time estimations for upcoming and prospective projects.",
+        "Supported the company interview process.",
+        "Submit Code reviews to co-workers",
+        "Supported the management with project understanding and brainstorm meetings directly with US clients and leading the project alongside the development team"
+      ]
+    },
+    {
+      "company": "Teravision Technologies",
+      "position": "Junior Full-Stack Developer",
+      "startDate": "2017-06-05",
+      "endDate": "2017-10-27",
+      "highlights": [
+        "Creation of web applications using ReactJs, ExpressJs, Redux, PostgreSql, Exosphere and MongodDB."
+      ]
+    },
+    {
+      "company": "Wikot",
+      "position": "Team Leader",
+      "startDate": "2016-12-18",
+      "endDate": "2017-06-02",
+      "highlights": [
+        "Supported the management with the creation of time estimations and decision making for upcoming projects.",
+        "Creation of strategies, in hand with the Project Manager, to organize the team in an optimal way each development sprint.",
+        "Supported the company interview process."
+      ]
+    },
+    {
+      "company": "Wikot",
+      "position": "Junior Web Developer",
+      "startDate": "2016-08-14",
+      "endDate": "2016-12-18",
+      "highlights": [
+        "Creation of web applications using AngularJs, Laravel, Slim, Postgres and MySql.",
+        "Creation of layouts using Sass, Bootstrap and jQuery"
+      ]
+    },
+    {
+      "company": "Freelance",
+      "position": "Web Developer",
+      "startDate": "2015-10-01",
+      "highlights": [
+        "Creation of several Web sites and ERP Modules using Laravel, PHP and Python"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Central de Venezuela",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2010-08-01",
+      "endDate": "2017-06-21"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Javascript",
+      "keywords": [
+        "ES6/ES7",
+        "ReactJs",
+        "Redux",
+        "NodeJs",
+        "AngularJs",
+        "React Native",
+        "Express"
+      ]
+    },
+    {
+      "name": "Css",
+      "keywords": [
+        "Sass",
+        "Bootstrap",
+        "Materialize",
+        "Material-UI"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "MySql",
+        "PostgreSql",
+        "MongoDB",
+        "Firebase",
+        "DynamoDB"
+      ]
+    },
+    {
+      "name": "PHP",
+      "keywords": [
+        "Laravel 5.*"
+      ]
+    },
+    {
+      "name": "Blockchain Technologies",
+      "keywords": [
+        "Built in NodeJS"
+      ]
+    },
+    {
+      "name": "Tools / Misc",
+      "keywords": [
+        "Webpack",
+        "Babel",
+        "Gulp",
+        "Docker",
+        "Jira",
+        "GitKraken",
+        "VsCode",
+        "MysqlWorkbench",
+        "Robomongo",
+        "PgAdmin",
+        "AWS Suite"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced professional proficiency"
+    }
+  ]
+}
